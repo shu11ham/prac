@@ -1,4 +1,4 @@
 # prac
-This is my first git repository
+This is My First Git Repository
 <br>
 Author - Shubham Gupta
